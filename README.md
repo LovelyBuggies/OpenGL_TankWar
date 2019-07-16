@@ -698,6 +698,6 @@ PHC服务器整合所有需要的头文件，使代码结构更加有条理。�
 
 ## VIII. 参考资料
 
-1. [《网络多人游戏架构与编程》](https://book.douban.com/subject/27135506/)
+- [《网络多人游戏架构与编程》](https://book.douban.com/subject/27135506/)
 
 ---
