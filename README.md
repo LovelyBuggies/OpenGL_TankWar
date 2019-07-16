@@ -1,2 +1,3 @@
-# OpenGL_TankBattle
-OpenGL-based Tank Battle Demo
+# Tank War
+
+一个**网络多人游戏**的🌰栗子——《坦克大战》。
