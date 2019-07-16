@@ -159,6 +159,7 @@ void NetworkManagerServer::HandlePacketFromNewClient( InputMemoryBitStream& inIn
 		//发送"welcome"数据包
 		SendWelcomePacket( newClientProxy );
 
+
 		//在游戏世界中加入该客户端的游戏对象
 		for( const auto& pair: mNetworkIdToGameObjectMap )
 		{
