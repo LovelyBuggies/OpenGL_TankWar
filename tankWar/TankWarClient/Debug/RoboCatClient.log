@@ -1,0 +1,15 @@
+﻿E:\visual stdio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(RoboCatClient.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+E:\visual stdio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(RoboCat.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  RoboCatClient.vcxproj -> I:\tankWar\Debug\TankWarClient.exe
+  Copying SDL DLLs...
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\libfreetype-6.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\libogg-0.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\libpng16-16.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\libvorbis-0.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\libvorbisfile-3.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\SDL2.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\SDL2_image.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\SDL2_mixer.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\SDL2_ttf.dll
+  I:\tankWar\RoboCatClient\\..\SDL\lib\win\x86\zlib1.dll
+  复制了 10 个文件

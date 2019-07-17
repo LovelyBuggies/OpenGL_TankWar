@@ -1,0 +1,29 @@
+﻿E:\visual stdio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(RoboCat.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Bullet.cpp
+  Engine.cpp
+  GameObject.cpp
+  GameObjectRegistry.cpp
+  InputState.cpp
+  MemoryBitStream.cpp
+  Move.cpp
+  MoveList.cpp
+  NetworkManager.cpp
+  ScoreBoardManager.cpp
+  SocketAddress.cpp
+  SocketAddressFactory.cpp
+  SocketUtil.cpp
+g:\码云\groupproject\code\不知道起什么名字\tankwar\tankwar\src\socketutil.cpp(90): warning C4100: “ioNaxNfds”: 未引用的形参
+  StringUtils.cpp
+  TCPSocket.cpp
+  Tank.cpp
+  TankMath.cpp
+  TankWarPCH.cpp
+  Timing.cpp
+  UDPSocket.cpp
+  正在生成代码...
+  正在编译...
+  Wall.cpp
+  World.cpp
+  正在生成代码...
+TankWarPCH.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+  TankWar.vcxproj -> G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWar\Bin\Debug\TankWar.lib

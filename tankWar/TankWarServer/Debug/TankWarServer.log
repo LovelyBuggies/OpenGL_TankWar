@@ -1,0 +1,30 @@
+﻿E:\visual stdio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(RoboCatServer.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  TankWarServerPCH.cpp
+  BulletServer.cpp
+  ClientProxy.cpp
+  NetworkManagerServer.cpp
+  ReplicationManagerServer.cpp
+  Server.cpp
+g:\码云\groupproject\code\不知道起什么名字\tankwar\tankwarserver\src\server.cpp(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\码云\groupproject\code\不知道起什么名字\tankwar\tankwarserver\src\server.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\码云\groupproject\code\不知道起什么名字\tankwar\tankwarserver\src\server.cpp(98): warning C4305: “参数”: 从“double”到“float”截断
+g:\码云\groupproject\code\不知道起什么名字\tankwar\tankwarserver\src\server.cpp(99): warning C4305: “参数”: 从“double”到“float”截断
+g:\码云\groupproject\code\不知道起什么名字\tankwar\tankwarserver\src\server.cpp(100): warning C4305: “参数”: 从“double”到“float”截断
+  ServerMain.cpp
+  TankServer.cpp
+  WallServer.cpp
+  正在生成代码...
+LINK : warning LNK4081: 磁盘空间不足；正在非增量链接
+  TankWarServer.vcxproj -> G:\码云\GroupProject\code\不知道起什么名字\tankWar\Debug\TankWarServer.exe
+  Copying SDL DLLs...
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\libfreetype-6.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\libogg-0.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\libpng16-16.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\libvorbis-0.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\libvorbisfile-3.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\SDL2.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\SDL2_image.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\SDL2_mixer.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\SDL2_ttf.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarServer\\..\SDL\lib\win\x86\zlib1.dll
+  复制了 10 个文件

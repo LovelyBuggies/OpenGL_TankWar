@@ -1,0 +1,32 @@
+﻿E:\visual stdio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(RoboCatClient.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  TankWarClientPCH.cpp
+  BulletClient.cpp
+  Client.cpp
+  ClientMain.cpp
+  GraphicsDriver.cpp
+  HUD.cpp
+  InputManager.cpp
+  NetworkManagerClient.cpp
+  RenderManager.cpp
+  ReplicationManagerClient.cpp
+  SpriteComponent.cpp
+  TankWarClient.cpp
+  Texture.cpp
+  TextureManager.cpp
+  WallClient.cpp
+  WindowManager.cpp
+g:\码云\groupproject\code\不知道起什么名字\tankwar\tankwarclient\src\windowmanager.cpp(7): warning C4101: “renderer”: 未引用的局部变量
+  正在生成代码...
+  TankWarClient.vcxproj -> G:\码云\GroupProject\code\不知道起什么名字\tankWar\Debug\TankWarClient.exe
+  Copying SDL DLLs...
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\libfreetype-6.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\libogg-0.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\libpng16-16.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\libvorbis-0.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\libvorbisfile-3.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\SDL2.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\SDL2_image.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\SDL2_mixer.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\SDL2_ttf.dll
+  G:\码云\GroupProject\code\不知道起什么名字\tankWar\TankWarClient\\..\SDL\lib\win\x86\zlib1.dll
+  复制了 10 个文件
